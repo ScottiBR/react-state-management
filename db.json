@@ -1,0 +1,9 @@
+{
+  "productList": [
+    { "id": 1, "name": "Notebook", "value": 4000 },
+    { "id": 2, "name": "HeadSet", "value": 200 },
+    { "id": 3, "name": "Iphone", "value": 7000 },
+    { "id": 4, "name": "Keyboard", "value": 50 },
+    { "id": 5, "name": "Mouse", "value": 20 }
+  ]
+}
